@@ -1,3 +1,1 @@
 - 👋 Hi, I’m @ItayElt
-- 👀 I’m interested in Data Science & Business Analytics
-- 💞️ I’m looking to collaborate on Coding & Statistics
